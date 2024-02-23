@@ -3,6 +3,7 @@
     height: 83vh;
     margin-bottom: 6rem;
   }
+  /* This is a single-line comment */
   .about-containers {
     flex-wrap: wrap;
   }
